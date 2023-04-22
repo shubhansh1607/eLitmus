@@ -1,4 +1,4 @@
-# eLitmus-Clueup-Puzzle-Application
+# eLitmus-Assignment
 An interactive puzzle that can be solved on an online website
 This application challenges your problem-solving skills! Solve the puzzle, assess your soft skills, and have fun while sharpening your mind.
 
