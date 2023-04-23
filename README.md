@@ -38,7 +38,7 @@ o	Minimum 1 solution
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/tusharjain2802/eLitmus-Clueup-Puzzle-Application.git
+   git clone https://github.com/shubhansh1607/eLitmus.git
    ```
 3. Install NPM packages
    ```sh
